@@ -6,7 +6,7 @@
 #include "Initialisation.h"
 #include "calibrate.h"
 #include "left.h"
-#include "Lmotor.h"
+#include "motor.h"
 
 
 int main()
